@@ -7,6 +7,10 @@
   font-weight: 700;
 }
 
+h3 > a {
+  margin-left: 5px;
+}
+
 /*
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn

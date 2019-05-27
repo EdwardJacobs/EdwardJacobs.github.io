@@ -11,6 +11,10 @@ h3 > a {
   margin-left: 5px;
 }
 
+.social-icons a {
+  border-bottom: none;
+  padding-right: 10px;
+}
 /*
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn

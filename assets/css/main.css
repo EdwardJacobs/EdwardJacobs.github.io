@@ -15,6 +15,10 @@ h3 > a {
   border-bottom: none;
   padding-right: 10px;
 }
+
+img {
+  border-radius: 50%;
+}
 /*
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn
